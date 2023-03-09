@@ -101,7 +101,7 @@ function ttytPr()
 	TextLabel.Position = UDim2.new(0.401250005, 0, 0.169999987, 0)
 	TextLabel.Size = UDim2.new(0.534722269, 0, 0.310000002, 0)
 	TextLabel.Font = Enum.Font.Highway
-	TextLabel.Text = "@acsu123"
+	TextLabel.Text = "@Malakismeno321"
 	TextLabel.TextColor3 = Color3.fromRGB(0, 0, 0)
 	TextLabel.TextScaled = true
 	TextLabel.TextSize = 14.000
@@ -211,7 +211,7 @@ function ttytPr()
 	TextLabel_4.Size = UDim2.new(1, 0, 0.184999987, 0)
 	TextLabel_4.ZIndex = 2
 	TextLabel_4.Font = Enum.Font.Highway
-	TextLabel_4.Text = "Dont forget to subcribe my youtube channel & follow my tiktok! Perm key giveaway soon!!!"
+	TextLabel_4.Text = "Mhn jexaseis pws eisai gay"
 	TextLabel_4.TextColor3 = Color3.fromRGB(255, 255, 255)
 	TextLabel_4.TextScaled = true
 	TextLabel_4.TextSize = 14.000
